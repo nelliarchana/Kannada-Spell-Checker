@@ -1,0 +1,1 @@
+It is a kannada spell checker . Trie data structure is used to store all the words of dataset. It identifies all the one distance errors of words present in the dataset. The works improves as the dataset increases. 
